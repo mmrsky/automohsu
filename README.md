@@ -1,0 +1,2 @@
+# automohsu
+Automaation ohjelmistosuunnittelu harjoitus
