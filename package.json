@@ -1,0 +1,27 @@
+{
+  "name": "automohsu",
+  "version": "1.0.0",
+  "description": "Automaation ohjelmistosuunnittelu harjoitus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmrsky/automohsu.git"
+  },
+  "author": "Mika Mörsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmrsky/automohsu/issues"
+  },
+  "homepage": "https://github.com/mmrsky/automohsu#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
